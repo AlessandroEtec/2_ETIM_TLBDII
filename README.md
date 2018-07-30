@@ -1,4 +1,4 @@
 # Tecnologias e Linguagens de Banco de Dados II
-![alt_tag](http://php.net/manual/en/images/c0d23d2d6769e53e24a1b3136c064577-php_logo.png)
+![alt_tag](https://d1q6f0aelx0por.cloudfront.net/product-logos/06f75c5d-6337-49d7-b92d-7f9ad292641f-logo-mysql-sq512.png)
 <br>Aulas de Banco de Dados II
 
