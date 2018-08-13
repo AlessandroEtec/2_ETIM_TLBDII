@@ -25,7 +25,7 @@ CREATE TABLE produto (
 -- INSERT Categoria
 INSERT INTO categoria(cat_descricao) values ('Bebidas'),('Lanches'),('Porções'),('Pizzas'),('Sorvetes'),('Doces'),('Saladas');
 
--- INSERT Produto 22-5-12-19
+-- INSERT Produto 
 insert into produto(cat_codigo,pro_descricao,pro_custo,pro_venda,pro_estoque)
 values (1,'Agua',1.3,2,100);
 insert into produto(cat_codigo,pro_descricao,pro_custo) 
